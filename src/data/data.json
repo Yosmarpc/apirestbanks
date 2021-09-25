@@ -1,0 +1,65 @@
+[
+  {
+    "idCliente": 1,
+    "nameClients": "Yosmar Antonio",
+    "nameApellidos": "Hinestroza Godoy",
+    "genero": "M",
+    "RutClients": "26464179-9",
+    "direccionActual": "Santiago, Estacion Central",
+    "IndicadorCuenta": true,
+    "idCuenta": "0001223990",
+    "TipoCuenta": "CTE CORRIENTE",
+    "TotalActivos": 1300030,
+    "TipoMenda": "CLP",
+    "EstadoCuenta": true,
+    "PoseeAhorroInvesiones":true,
+    "TipoInvesion":  "Invesiones de  Vienes y Raices" 
+  },
+
+  {
+    "idCliente": 2,
+    "nameClients": "Silvia Patricia",
+    "nameApellidos": "Teran Pirela",
+    "genero": "F",
+    "RutClients": "21289880-0",
+    "direccionActual": "Santiago, Estacion Central",
+    "IndicadorCuenta": true,
+    "idCuenta": "21289880",
+    "TipoCuenta": "CTA. RUT",
+    "TotalActivos": 55000,
+    "TipoMenda": "CLP",
+    "EstadoCuenta": true,
+    "PoseeAhorroInvesiones":true,
+    "TipoInvesion":  "Ahorro e Inversiones" 
+  },
+
+  {
+    "idCliente": 3,
+    "nameClients": "Juan ",
+    "nameApellidos": "Murga",
+    "genero": "M",
+    "RutClients": "20289881-1",
+    "direccionActual": "Santiago, Estacion Central",
+    "IndicadorCuenta": true,
+    "idCuenta": "20289881",
+    "TipoCuenta": "CTA. RUT",
+    "TotalActivos": 55000,
+    "TipoMenda": "CLP",
+    "EstadoCuenta": true,
+    "PoseeAhorroInvesiones":true,
+    "TipoInvesion":  "Invesiones de  Vienes y Raices" 
+  },
+
+  {
+    "idCliente": 4,
+    "nameClients": "Isaac David ",
+    "nameApellidos": "Teran",
+    "genero": "M",
+    "RutClients": "20289825-1",
+    "direccionActual": "Santiago, Estacion Central",
+    "IndicadorCuenta": false,
+    "PoseeAhorroInvesiones":true,
+    "TipoInvesion":  "Ahorro e Inversiones"
+    
+  }
+]
